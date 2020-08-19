@@ -11,6 +11,9 @@
 # production
 /build
 
+# debugging
+/.vscode/chrome-debug-data
+
 # misc
 .DS_Store
 .env.local
